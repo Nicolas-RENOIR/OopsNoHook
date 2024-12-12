@@ -63,4 +63,4 @@ phishing-email-detector/
 ```
 
 ## 📬 Contact
-For inquiries, please contact [Your Name](mailto:rnicolas1202@gmail.com).
+For inquiries, please contact [Nicolas](mailto:rnicolas1202@gmail.com).
