@@ -30,5 +30,5 @@ phishing-email-detector/
 ├── README.md             # Project documentation
 ```
 
-## 📬 Contact
-For inquiries, please contact [Nicolas](mailto:rnicolas1202@gmail.com).
+## 📬 Credits
+[Nicolas](mailto:rnicolas1202@gmail.com) - [Killian](mailto:killianfournier2003@gmail.com) - [Lucas](mailto:lopeslucas0311@gmail.com)
