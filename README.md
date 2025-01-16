@@ -1,7 +1,7 @@
 # 📧 Phishing Email Detector (LSTM)
 
 ## 🌍 Overview
-This project is a Python-based application that detects phishing emails using a **Long Short-Term Memory (LSTM)** machine learning model. The application analyzes the email content and predicts whether the email is "Phishing" or "Legitimate" using TensorFlow.
+This project is a Python-based application that detects phishing emails using a **Long Short-Term Memory (LSTM)** machine learning model. The application analyzes the email content and predicts whether the email is "Phishing" or "Legitimate" using **TensorFlow**.
 
 ## 🚀 Features
 - **LSTM Model:** Utilizes an advanced deep learning model for email classification.
