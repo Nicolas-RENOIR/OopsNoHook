@@ -1,5 +1,5 @@
 import pickle
-from tensorflow.keras.models import load_model  # For LSTM models
+from tensorflow.keras.models import load_model
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 with open("vectorizer.pkl", "rb") as f:
@@ -18,11 +18,17 @@ def predict_email(email_text):
     return result
 
 def main():
-    print("=== Phishing Email Detector ===")
+    print("""
+   ____                   _   __      __  __            __  
+  / __ \____  ____  _____/ | / /___  / / / /___  ____  / /__
+ / / / / __ \/ __ \/ ___/  |/ / __ \/ /_/ / __ \/ __ \/ //_/
+/ /_/ / /_/ / /_/ (__  ) /|  / /_/ / __  / /_/ / /_/ / ,<   
+\____/\____/ .___/____/_/ |_/\____/_/ /_/\____/\____/_/|_|  
+          /_/                                               
+""")
     while True:
-        email_text = input("Enter email content (or type 'exit' to quit): ")
+        email_text = input("Enter email content or \"exit\" : ")
         if email_text.lower() == 'exit':
-            print("Goodbye!")
             break
 
         result = predict_email(email_text)
