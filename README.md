@@ -30,5 +30,11 @@ phishing-email-detector/
 ├── README.md             # Project documentation
 ```
 
+## 📦 Download the Model
+
+You can download the trained model here:
+
+🔗 [Download model file](https://drive.google.com/file/d/1f32dQs5LCLEetmZEZtPrW8vo5Tklz5eC/view?usp=drive_link)
+
 ## 📬 Credits
 [Nicolas](mailto:rnicolas1202@gmail.com) - [Killian](mailto:killianfournier2003@gmail.com) - [Lucas](mailto:lopeslucas0311@gmail.com)
