@@ -32,9 +32,9 @@ phishing-email-detector/
 
 ## 📦 Download the Model
 
-You can download the trained model here:
-
 🔗 [Download model file](https://drive.google.com/file/d/1f32dQs5LCLEetmZEZtPrW8vo5Tklz5eC/view?usp=drive_link)
+
+🔗 [Download vectorizer.pkl file](https://drive.google.com/file/d/1aQ1oouiw1KaW2270eWNkGIacAtfMI-3Z/view?usp=sharing)
 
 ## 📬 Credits
 [Nicolas](mailto:rnicolas1202@gmail.com) - [Killian](mailto:killianfournier2003@gmail.com) - [Lucas](mailto:lopeslucas0311@gmail.com)
